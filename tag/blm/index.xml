@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BLM | Academic</title>
+    <link>https://mswerdloffnu.github.io/tag/blm/</link>
+      <atom:link href="https://mswerdloffnu.github.io/tag/blm/index.xml" rel="self" type="application/rss+xml" />
+    <description>BLM</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 May 2023 15:08:31 -0500</lastBuildDate>
+    <image>
+      <url>https://mswerdloffnu.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>BLM</title>
+      <link>https://mswerdloffnu.github.io/tag/blm/</link>
+    </image>
+    
+    <item>
+      <title>first post</title>
+      <link>https://mswerdloffnu.github.io/post/my_blog_post_directory/may-20-2023-my-blog-post-title/</link>
+      <pubDate>Sat, 20 May 2023 15:08:31 -0500</pubDate>
+      <guid>https://mswerdloffnu.github.io/post/my_blog_post_directory/may-20-2023-my-blog-post-title/</guid>
+      <description>&lt;p&gt;Hello! This is my &lt;em&gt;first&lt;/em&gt; blog post! I am &lt;strong&gt;very&lt;/strong&gt; excited to share my post with you. I learned how to make this post &lt;a href=&#34;https://caitlincasar.com/post/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;subheader&#34;&gt;Subheader&lt;/h2&gt;
+&lt;p&gt;This is a new section under a subheader. I can make an ordered list:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;This is item 1&lt;/li&gt;
+&lt;li&gt;This is item 2&lt;/li&gt;
+&lt;li&gt;And this is item 3!&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
